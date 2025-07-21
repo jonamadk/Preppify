@@ -1,0 +1,9 @@
+Name,Age,Gender,Department,Salary,JoiningDate,PerformanceScore
+Alice,29,Female,Engineering,75000,2020-01-15,88
+Bob,35,Male,Sales,54000,2019-03-22,76
+Charlie,28,Male,Engineering,,2021-07-10,90
+Diana,42,Female,HR,62000,2018-11-30,82
+Evan,,Male,Marketing,58000,2020-06-01,85
+Fay,31,Female,Sales,60000,2022-01-10,
+George,37,Male,Engineering,81000,2017-09-12,93
+Hannah,26,Female,Marketing,52000,2021-05-19,79
